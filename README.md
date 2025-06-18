@@ -93,7 +93,7 @@ The trained model file (`xgboost_model_top10.json`) is also hosted on Hugging Fa
 
 You can view or rerun the model training process using the Jupyter notebook:
 
-[Open in Google Colab](https://colab.research.google.com/github/Mightysam01/your-repo/blob/main/RegressionHousePrice.ipynb)
+[Open in Google Colab](https://github.com/Mightysam01/regression_house_price_model/blob/main/RegressionHousePrice.ipynb)
 
 
 ## License
