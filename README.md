@@ -96,6 +96,3 @@ You can view or rerun the model training process using the Jupyter notebook:
 [Open in Google Colab](https://github.com/Mightysam01/regression_house_price_model/blob/main/RegressionHousePrice.ipynb)
 
 
-## License
-
-This project is licensed under the MIT License.
