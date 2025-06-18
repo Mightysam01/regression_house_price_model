@@ -46,7 +46,7 @@ This project is a full-stack machine learning web application that predicts hous
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Mightysam01/house-price-predictor.git
+git clone https://github.com/Mightysam01/regression_house_price_model.git
 cd house-price-predictor
 ```
 
@@ -88,6 +88,13 @@ npm start
 The trained model file (`xgboost_model_top10.json`) is also hosted on Hugging Face Hub (optional for download or updates).
 
 ---
+
+## Notebook
+
+You can view or rerun the model training process using the Jupyter notebook:
+
+[Open in Google Colab](https://colab.research.google.com/github/Mightysam01/your-repo/blob/main/RegressionHousePrice.ipynb)
+
 
 ## License
 
